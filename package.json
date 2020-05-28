@@ -1,0 +1,21 @@
+{
+  "name": "test0",
+  "version": "1.0.0",
+  "description": "[![codebeat badge](https://codebeat.co/badges/5f08f7b7-7a56-455f-a9c7-42d0c6a81c5c)](https://codebeat.co/projects/github-com-kartikey-kumar1-by-test0-master)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikey-kumar1-by/test0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartikey-kumar1-by/test0/issues"
+  },
+  "homepage": "https://github.com/kartikey-kumar1-by/test0#readme"
+}

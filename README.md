@@ -3,4 +3,8 @@
 # test0
 repo for testing purposes
 
-## This is subsection
+## Running the code
+```
+npm install
+npm start
+```
